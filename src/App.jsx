@@ -1,5 +1,5 @@
 import "./App.css";
-import useFetch from "./useFetch";
+import useFetch from "./hooks/useFetch";
 
 // ⭐️ 이번 과제는 useFetch.jsx 파일에서 진행합니다.
 
